@@ -29,8 +29,8 @@ Passo a passo para construção de arvore filogenética usando o mafft e o iqtre
 3- Usar o comando iqtree2 -s arquivo -m MFP -B 1000 -T 5 
 
 # Visualização Árvore
-1- Entra no site https://itol.embl.de/
-2- Fazer o upload do arquivo de output do iqtree2 no formato .treefile
+1- Entra no site https://itol.embl.de/  
+2- Fazer o upload do arquivo de output do iqtree2 no formato .treefile  
 3- Configurar a árvore no painel de controle, aba avançado, opção Midpoint root
 
 

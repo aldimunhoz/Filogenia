@@ -3,7 +3,7 @@ Passo a passo para construção de arvore filogenética usando o mafft e o iqtre
 
 # Requisitos
 1- Arquivo Multifasta  
-2-Instalar ou acessar os sofwtares Mafft(on-line ou desktop), Aliview, IQ-TREE e iTol (on-line)  
+2-Instalar ou acessar os sofwtares Mafft(web ou desktop), Aliview, IQ-TREE e iTol (web)  
 
 
 # Arquivo Multifasta

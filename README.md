@@ -1,4 +1,4 @@
-# Fiologenia
+# Filogenia
 Passo a passo para construção de arvore filogenética usando o mafft e o iqtree.
 
 # Requisitos
